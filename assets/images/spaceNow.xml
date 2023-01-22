@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spaceNow.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spacebar0000" x="0" y="0" width="259" height="146"/>
+	<SubTexture name="spacebar0001" x="0" y="0" width="259" height="146"/>
+	<SubTexture name="spacebar0002" x="0" y="0" width="259" height="146"/>
+	<SubTexture name="spacebar0003" x="259" y="0" width="248" height="139" frameX="-6" frameY="-3" frameWidth="259" frameHeight="146"/>
+	<SubTexture name="spacebar0004" x="259" y="0" width="248" height="139" frameX="-6" frameY="-3" frameWidth="259" frameHeight="146"/>
+	<SubTexture name="spacebar0005" x="259" y="0" width="248" height="139" frameX="-6" frameY="-3" frameWidth="259" frameHeight="146"/>
+</TextureAtlas>

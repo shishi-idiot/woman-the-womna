@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="badcomment.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bad comment0000" x="0" y="0" width="791" height="876" frameX="-171" frameY="0" frameWidth="962" frameHeight="1090"/>
+	<SubTexture name="bad comment0001" x="791" y="0" width="251" height="262" frameX="-32" frameY="-762" frameWidth="962" frameHeight="1090"/>
+	<SubTexture name="bad comment0002" x="791" y="0" width="251" height="262" frameX="-32" frameY="-762" frameWidth="962" frameHeight="1090"/>
+	<SubTexture name="bad comment0003" x="1042" y="0" width="224" height="181" frameX="0" frameY="-845" frameWidth="962" frameHeight="1090"/>
+	<SubTexture name="bad comment0004" x="1266" y="0" width="224" height="309" frameX="0" frameY="-781" frameWidth="962" frameHeight="1090"/>
+	<SubTexture name="bad comment0005" x="1490" y="0" width="224" height="168" frameX="0" frameY="-851" frameWidth="962" frameHeight="1090"/>
+	<SubTexture name="bad comment0006" x="1490" y="0" width="224" height="168" frameX="0" frameY="-851" frameWidth="962" frameHeight="1090"/>
+	<SubTexture name="bad comment0007" x="1714" y="0" width="118" height="168" frameX="-53" frameY="-851" frameWidth="962" frameHeight="1090"/>
+	<SubTexture name="bad comment0008" x="1832" y="0" width="3" height="1" frameX="-111" frameY="-934" frameWidth="962" frameHeight="1090"/>
+	<SubTexture name="bad comment0009" x="1832" y="0" width="3" height="1" frameX="209" frameY="-894" frameWidth="962" frameHeight="1090"/>
+</TextureAtlas>

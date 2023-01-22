@@ -1,0 +1,151 @@
+{
+  "name": "flash",
+  "ogmoVersion": "3.4.0",
+  "levelPaths": ["."],
+  "backgroundColor": "#282c34ff",
+  "gridColor": "#3c4049cc",
+  "anglesRadians": true,
+  "directoryDepth": 5,
+  "layerGridDefaultSize": {"x": 8, "y": 8},
+  "levelDefaultSize": {"x": 320, "y": 240},
+  "levelMinSize": {"x": 640, "y": 480},
+  "levelMaxSize": {"x": 1140, "y": 577},
+  "levelValues": [],
+  "defaultExportMode": ".json",
+  "compactExport": false,
+  "externalScript": "",
+  "playCommand": "",
+  "entityTags": [],
+  "layers": [
+    {
+      "definition": "entity",
+      "name": "entities",
+      "gridSize": {"x": 16, "y": 16},
+      "exportID": "58269374",
+      "requiredTags": [],
+      "excludedTags": []
+    },
+    {
+      "definition": "tile",
+      "name": "walls",
+      "gridSize": {"x": 32, "y": 32},
+      "exportID": "58268001",
+      "exportMode": 0,
+      "arrayMode": 0,
+      "defaultTileset": ""
+    }
+  ],
+  "entities": [
+    {
+      "exportID": "58278257",
+      "name": "player",
+      "limit": -1,
+      "size": {"x": 64, "y": 64},
+      "origin": {"x": 0, "y": 0},
+      "originAnchored": true,
+      "shape": {
+        "label": "Rectangle",
+        "points": [
+          {"x": -1, "y": -1},
+          {"x": 1, "y": -1},
+          {"x": -1, "y": 1},
+          {"x": 1, "y": -1},
+          {"x": -1, "y": 1},
+          {"x": 1, "y": 1}
+        ]
+      },
+      "color": "#ff0000ff",
+      "tileX": false,
+      "tileY": false,
+      "tileSize": {"x": 64, "y": 64},
+      "resizeableX": false,
+      "resizeableY": false,
+      "rotatable": false,
+      "rotationDegrees": 360,
+      "canFlipX": false,
+      "canFlipY": false,
+      "canSetColor": false,
+      "hasNodes": false,
+      "nodeLimit": 0,
+      "nodeDisplay": 0,
+      "nodeGhost": true,
+      "tags": [],
+      "values": []
+    },
+    {
+      "exportID": "58286962",
+      "name": "bug",
+      "limit": -1,
+      "size": {"x": 32, "y": 32},
+      "origin": {"x": 0, "y": 0},
+      "originAnchored": true,
+      "shape": {
+        "label": "Rectangle",
+        "points": [
+          {"x": -1, "y": -1},
+          {"x": 1, "y": -1},
+          {"x": -1, "y": 1},
+          {"x": 1, "y": -1},
+          {"x": -1, "y": 1},
+          {"x": 1, "y": 1}
+        ]
+      },
+      "color": "#e17878ff",
+      "tileX": false,
+      "tileY": false,
+      "tileSize": {"x": 32, "y": 16},
+      "resizeableX": false,
+      "resizeableY": false,
+      "rotatable": false,
+      "rotationDegrees": 360,
+      "canFlipX": false,
+      "canFlipY": false,
+      "canSetColor": false,
+      "hasNodes": false,
+      "nodeLimit": 0,
+      "nodeDisplay": 0,
+      "nodeGhost": true,
+      "tags": [],
+      "values": []
+    },
+    {
+      "exportID": "58319689",
+      "name": "end",
+      "limit": -1,
+      "size": {"x": 64, "y": 64},
+      "origin": {"x": 0, "y": 0},
+      "originAnchored": true,
+      "shape": {
+        "label": "Rectangle",
+        "points": [
+          {"x": -1, "y": -1},
+          {"x": 1, "y": -1},
+          {"x": -1, "y": 1},
+          {"x": 1, "y": -1},
+          {"x": -1, "y": 1},
+          {"x": 1, "y": 1}
+        ]
+      },
+      "color": "#ffb8b8ff",
+      "tileX": false,
+      "tileY": false,
+      "tileSize": {"x": 64, "y": 64},
+      "resizeableX": false,
+      "resizeableY": false,
+      "rotatable": false,
+      "rotationDegrees": 360,
+      "canFlipX": false,
+      "canFlipY": false,
+      "canSetColor": false,
+      "hasNodes": false,
+      "nodeLimit": 0,
+      "nodeDisplay": 0,
+      "nodeGhost": true,
+      "tags": [],
+      "values": []
+    }
+  ],
+  "tilesets": [
+    {"label": "flash tileset", "path": "../images/tiles.png", "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAAAgCAYAAADtwH1UAAAAvklEQVRoge3azQ6CMBQG0e8a3/+VcUFMaOvPAuw0cc7KDdYwtFJChbfB4xc5+I0cXMmd/gEHs69EeuYlcQbgDAAzAMwAMAPADPDZlnN3S1+PNwBspX3Ais7uTfrj+9lQBtgNJ2bWwC5Bc1W6uAbY1ZvPP2eA+ZrlzgAw/4RHzyv0yqXo1V6gEgMcVdoTNeVxtQFafYSrv3tggJF3Qf/EADADwAwAMwDMADADwAwAMwDMALCVHkUs8a7mbM4A2APjtw9R9hReEwAAAABJRU5ErkJggg==", "tileWidth": 32, "tileHeight": 32, "tileSeparationX": 0, "tileSeparationY": 0, "tileMarginX": 0, "tileMarginY": 0}
+  ]
+}
